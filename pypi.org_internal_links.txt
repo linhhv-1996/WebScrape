@@ -1,0 +1,16 @@
+https://pypi.org/sitemap/
+https://pypi.org/
+https://blog.pypi.org
+https://pypi.org/help/
+https://pypi.org/security/
+https://pypi.org/account/login/
+https://pypi.org/stats/
+https://pypi.org/account/register/
+https://pypi.org/policy/terms-of-use/
+https://pypi.org/sponsors/
+https://pypi.org/policy/acceptable-use-policy/
+https://donate.pypi.org
+https://pypi.org/search/
+https://pypi.org/classifiers/
+https://pypi.org/account/request-password-reset/
+https://pypi.org/trademarks/
